@@ -1,4 +1,4 @@
-# IIARD Academic Multi-Journal Management Platform
+# Academic Multi-Journal Management Platform
 
 ## Overview
 
@@ -79,7 +79,7 @@ Sensitive files such as production credentials, payment gateways, webhooks, and 
 ## 1. Clone Repository
 
 ```
-git clone https://github.com/yourusername/iiard-academic-journal-platform.git
+git clone https://github.com/yourusername/academic-publishing-platform.git
 ```
 
 ## 2. Create Database
