@@ -1,0 +1,24 @@
+[06-Jun-2022 17:49:06 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/iiardjournals.org/public_html/control/tab.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/iiardjournals.org/public_html/control/tab.php on line 146
+[06-Jun-2022 17:49:06 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/iiardjournals.org/public_html/control/tab.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/iiardjournals.org/public_html/control/tab.php on line 146
+[06-Jun-2022 17:52:33 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/iiardjournals.org/public_html/control/tab.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/iiardjournals.org/public_html/control/tab.php on line 146
+[06-Jun-2022 17:53:06 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/iiardjournals.org/public_html/control/tab.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/iiardjournals.org/public_html/control/tab.php on line 146
+[06-Jun-2022 17:55:46 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::free_result() in /home/customer/www/iiardjournals.org/public_html/control/tab.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/iiardjournals.org/public_html/control/tab.php on line 149
+[06-Jun-2022 16:56:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/iiardjournals.org/public_html/control/tab.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/iiardjournals.org/public_html/control/tab.php on line 10
