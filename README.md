@@ -266,4 +266,4 @@ All sensitive credentials have been rotated.
 
 # License
 
-This repository is shared for portfolio and demonstration purposes only.
+This repository is shared for portfolio and demonstration purposes only but please do well to attribute it if you plan on adapting it for your own project.
